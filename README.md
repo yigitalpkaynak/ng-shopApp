@@ -1,6 +1,7 @@
 # NgApp
 
 Hosting URL = https://angular-shopapp-4d3bd.web.app
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
